@@ -1,0 +1,12 @@
+[submodule "api-lib"]
+	path = api-lib
+	url = git@github.com:vuongdieuban/api-lib.git
+[submodule "jobs-tracker-backend"]
+	path = jobs-tracker-backend
+	url = git@github.com:vuongdieuban/jobs-tracker-backend.git
+[submodule "jobs-tracker-chrome-extension"]
+	path = jobs-tracker-chrome-extension
+	url = git@github.com:vuongdieuban/jobs-tracker-chrome-extension.git
+[submodule "jobs-tracker-admin-panel"]
+	path = jobs-tracker-admin-panel
+	url = git@github.com:vuongdieuban/jobs-tracker-admin-panel.git
